@@ -1,1 +1,123 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T10:57:46.794Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 OPR/79.0.4143.22" version="15.6.8" etag="S_KtMZ32oFxuuDXh3l5r" type="github"><diagram id="MU_yDZtVSF_CshAC8WVe">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-05T11:07:38.203Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 OPR/79.0.4143.22" etag="Z00V4aHOyrt5B26vEUSq" version="15.6.8" type="github">
+  <diagram id="MU_yDZtVSF_CshAC8WVe" name="1 - Mastering the Sounds">
+    <mxGraphModel dx="712" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lbNhMh24D-Q8IX85SVq0-1" value="Sounds" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];rounded=0;fontStyle=5;dashed=1;shadow=0;sketch=0;glass=0;fontSize=30;direction=west;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="20" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lbNhMh24D-Q8IX85SVq0-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lbNhMh24D-Q8IX85SVq0-2" target="lbNhMh24D-Q8IX85SVq0-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="350" />
+              <mxPoint x="350" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lbNhMh24D-Q8IX85SVq0-12" value="Learn Natural&lt;br&gt;Pronunciation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lbNhMh24D-Q8IX85SVq0-10">
+          <mxGeometry x="0.4921" y="-3" relative="1" as="geometry">
+            <mxPoint x="36" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lbNhMh24D-Q8IX85SVq0-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="lbNhMh24D-Q8IX85SVq0-2" target="lbNhMh24D-Q8IX85SVq0-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lbNhMh24D-Q8IX85SVq0-15" value="Practice the Natural&lt;br&gt;way to spell the sounds" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lbNhMh24D-Q8IX85SVq0-14">
+          <mxGeometry x="0.5492" y="1" relative="1" as="geometry">
+            <mxPoint x="39" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lbNhMh24D-Q8IX85SVq0-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lbNhMh24D-Q8IX85SVq0-2" target="lbNhMh24D-Q8IX85SVq0-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="445" y="300" />
+              <mxPoint x="330" y="300" />
+              <mxPoint x="330" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lbNhMh24D-Q8IX85SVq0-18" value="Always use&lt;br&gt;the Contractions" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lbNhMh24D-Q8IX85SVq0-17">
+          <mxGeometry x="0.3974" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lbNhMh24D-Q8IX85SVq0-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lbNhMh24D-Q8IX85SVq0-2" target="lbNhMh24D-Q8IX85SVq0-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lbNhMh24D-Q8IX85SVq0-21" value="Get Confidence" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lbNhMh24D-Q8IX85SVq0-20">
+          <mxGeometry x="-0.299" y="2" relative="1" as="geometry">
+            <mxPoint x="8" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lbNhMh24D-Q8IX85SVq0-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lbNhMh24D-Q8IX85SVq0-2" target="lbNhMh24D-Q8IX85SVq0-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lbNhMh24D-Q8IX85SVq0-29" value="Remember&lt;br&gt;the Sounds" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lbNhMh24D-Q8IX85SVq0-28">
+          <mxGeometry x="-0.1105" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lbNhMh24D-Q8IX85SVq0-2" value="Most Common Sounds" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="400" y="310" width="90" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lbNhMh24D-Q8IX85SVq0-3" value="YouGlish" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;shadow=0;glass=0;sketch=0;fillColor=#e1d5e7;fontSize=11;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="170" y="320" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbNhMh24D-Q8IX85SVq0-4" value="Words&#39; LIst" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;shadow=0;glass=0;sketch=0;fillColor=#e1d5e7;fontSize=11;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="470" y="525" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbNhMh24D-Q8IX85SVq0-5" value="Contractions" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;shadow=0;glass=0;sketch=0;fillColor=#e1d5e7;fontSize=11;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="190" y="200" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbNhMh24D-Q8IX85SVq0-6" value="Read Mangas&lt;br&gt;Out Loud" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;shadow=0;glass=0;sketch=0;fillColor=#e1d5e7;fontSize=11;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="150" y="450" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbNhMh24D-Q8IX85SVq0-7" value="Speak with&lt;br&gt;Myself" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;shadow=0;glass=0;sketch=0;fillColor=#e1d5e7;fontSize=11;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="720" y="400" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbNhMh24D-Q8IX85SVq0-8" value="Speak on&lt;br&gt;Discord" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;shadow=0;glass=0;sketch=0;fillColor=#e1d5e7;fontSize=11;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="720" y="520" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbNhMh24D-Q8IX85SVq0-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lbNhMh24D-Q8IX85SVq0-9" target="lbNhMh24D-Q8IX85SVq0-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="665" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lbNhMh24D-Q8IX85SVq0-26" value="Step #2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lbNhMh24D-Q8IX85SVq0-23">
+          <mxGeometry x="0.5182" y="4" relative="1" as="geometry">
+            <mxPoint x="13" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lbNhMh24D-Q8IX85SVq0-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lbNhMh24D-Q8IX85SVq0-9" target="lbNhMh24D-Q8IX85SVq0-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="665" y="430" />
+              <mxPoint x="712" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lbNhMh24D-Q8IX85SVq0-25" value="Step #1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lbNhMh24D-Q8IX85SVq0-24">
+          <mxGeometry x="-0.0184" relative="1" as="geometry">
+            <mxPoint x="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lbNhMh24D-Q8IX85SVq0-9" value="Speak" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="620" y="310" width="90" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lbNhMh24D-Q8IX85SVq0-30" value="Youglish&lt;br&gt;&amp;nbsp;Link:&amp;nbsp;https://youglish.com/" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="680" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lbNhMh24D-Q8IX85SVq0-31" value="Words&#39; List Link:&amp;nbsp;https://s3.us-west-1.amazonaws.com/fluent.pronunciation.challenge/The+Fluent+Pronunciation+Challenge+-+Word+List+2.pdf" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="780" width="530" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
