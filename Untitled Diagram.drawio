@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T11:08:49.777Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 OPR/79.0.4143.22" etag="ATAiTLBgqYo3FL6J48Kk" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-05T11:14:31.401Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 OPR/79.0.4143.22" etag="ICsVqwo5beI1oAtwfEdy" version="15.6.8" type="github" pages="2">
   <diagram id="MU_yDZtVSF_CshAC8WVe" name="1 - Mastering the Sounds">
     <mxGraphModel dx="1164" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -115,6 +115,84 @@
         </mxCell>
         <mxCell id="lbNhMh24D-Q8IX85SVq0-31" value="Words&#39; List Link:&amp;nbsp;https://s3.us-west-1.amazonaws.com/fluent.pronunciation.challenge/The+Fluent+Pronunciation+Challenge+-+Word+List+2.pdf" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="605" width="530" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="aZxajL0S6gC6csD1GXac" name="2 - Speak without Thinking">
+    <mxGraphModel dx="1164" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Cd10RSg534kVP7aMXNiR-0" />
+        <mxCell id="Cd10RSg534kVP7aMXNiR-1" parent="Cd10RSg534kVP7aMXNiR-0" />
+        <mxCell id="J9QsXlOPBP3_kP1bE2PN-0" value="Speak without&lt;br&gt;Thinking" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];rounded=0;fontStyle=5;dashed=1;shadow=0;sketch=0;glass=0;fontSize=30;direction=west;rotation=0;" vertex="1" parent="Cd10RSg534kVP7aMXNiR-1">
+          <mxGeometry x="305" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HOcL1fVXIzmRyTH_UzaQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Cd10RSg534kVP7aMXNiR-1" source="outEpWW_ZAS01-BAC8ac-0" target="HOcL1fVXIzmRyTH_UzaQ-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HOcL1fVXIzmRyTH_UzaQ-6" value="#NoTranslations" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HOcL1fVXIzmRyTH_UzaQ-5">
+          <mxGeometry x="0.2809" y="4" relative="1" as="geometry">
+            <mxPoint x="24" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HOcL1fVXIzmRyTH_UzaQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Cd10RSg534kVP7aMXNiR-1" source="outEpWW_ZAS01-BAC8ac-0" target="HOcL1fVXIzmRyTH_UzaQ-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="270" />
+              <mxPoint x="229" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HOcL1fVXIzmRyTH_UzaQ-9" value="Just Open my Mouth&lt;br&gt;and Speak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HOcL1fVXIzmRyTH_UzaQ-8">
+          <mxGeometry x="0.5489" y="1" relative="1" as="geometry">
+            <mxPoint x="39" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HOcL1fVXIzmRyTH_UzaQ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Cd10RSg534kVP7aMXNiR-1" source="outEpWW_ZAS01-BAC8ac-0" target="HOcL1fVXIzmRyTH_UzaQ-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="425" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HOcL1fVXIzmRyTH_UzaQ-12" value="Don&#39;t Struggle with&lt;br&gt;the Sounds" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HOcL1fVXIzmRyTH_UzaQ-11">
+          <mxGeometry x="-0.119" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HOcL1fVXIzmRyTH_UzaQ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Cd10RSg534kVP7aMXNiR-1" source="outEpWW_ZAS01-BAC8ac-0" target="HOcL1fVXIzmRyTH_UzaQ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HOcL1fVXIzmRyTH_UzaQ-14" value="Don&#39;t Struggle with&lt;br&gt;the Contractions" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HOcL1fVXIzmRyTH_UzaQ-13">
+          <mxGeometry x="0.1087" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HOcL1fVXIzmRyTH_UzaQ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Cd10RSg534kVP7aMXNiR-1" source="outEpWW_ZAS01-BAC8ac-0" target="HOcL1fVXIzmRyTH_UzaQ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HOcL1fVXIzmRyTH_UzaQ-16" value="Using English as&lt;br&gt;my Mother Tongue" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HOcL1fVXIzmRyTH_UzaQ-15">
+          <mxGeometry x="-0.1215" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="outEpWW_ZAS01-BAC8ac-0" value="Speak" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Cd10RSg534kVP7aMXNiR-1">
+          <mxGeometry x="380" y="160" width="90" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="HOcL1fVXIzmRyTH_UzaQ-0" value="Farewall&lt;br&gt;Translations" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;shadow=0;glass=0;sketch=0;fillColor=#e1d5e7;fontSize=11;strokeColor=#9673a6;" vertex="1" parent="Cd10RSg534kVP7aMXNiR-1">
+          <mxGeometry x="150" y="130" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HOcL1fVXIzmRyTH_UzaQ-1" value="Get &lt;br&gt;Confidence" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;shadow=0;glass=0;sketch=0;fillColor=#e1d5e7;fontSize=11;strokeColor=#9673a6;" vertex="1" parent="Cd10RSg534kVP7aMXNiR-1">
+          <mxGeometry x="130" y="230" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HOcL1fVXIzmRyTH_UzaQ-2" value="Master the&lt;br&gt;Common&lt;br&gt;Sounds" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;shadow=0;glass=0;sketch=0;fillColor=#e1d5e7;fontSize=11;strokeColor=#9673a6;" vertex="1" parent="Cd10RSg534kVP7aMXNiR-1">
+          <mxGeometry x="610" y="100" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HOcL1fVXIzmRyTH_UzaQ-3" value="Master the&lt;br&gt;Contractioons" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;shadow=0;glass=0;sketch=0;fillColor=#e1d5e7;fontSize=11;strokeColor=#9673a6;" vertex="1" parent="Cd10RSg534kVP7aMXNiR-1">
+          <mxGeometry x="620" y="210" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HOcL1fVXIzmRyTH_UzaQ-4" value="Train my Brain&lt;br&gt;to Think Just&lt;br&gt;in English" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;shadow=0;glass=0;sketch=0;fillColor=#e1d5e7;fontSize=11;strokeColor=#9673a6;" vertex="1" parent="Cd10RSg534kVP7aMXNiR-1">
+          <mxGeometry x="430" y="340" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
